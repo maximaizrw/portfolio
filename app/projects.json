@@ -1,0 +1,29 @@
+{
+    "projects": [
+      {
+        "name": "Rock Paper Scissors",
+        "image": "https://images2.imgbox.com/7a/6f/GRIOqqKR_o.png",
+        "technologies": ["Tailwind", "JavaScript"],
+        "github": "https://github.com/maximaizrw/Pieda_Papel_Tijera",
+        "website": "https://pieda-papel-tijera.vercel.app/",
+        "description": "A simple Rock Paper Scissors game implemented with HTML, CSS, and JavaScript. The player can select an option and compete against the computer in this classic game."
+      },
+      {
+        "name": "Project 2",
+        "image": "https://images2.imgbox.com/7a/6f/GRIOqqKR_o.png",
+        "technologies": ["Technology1", "Technology2"],
+        "github": "https://github.com/yourusername/project2",
+        "website": "https://yourwebsite.com/project2",
+        "description": "Description of Project 2. You can write about the features and functionalities of this project here."
+      },
+      {
+        "name": "Project 3",
+        "image": "https://images2.imgbox.com/7a/6f/GRIOqqKR_o.png",
+        "technologies": ["Technology3", "Technology4"],
+        "github": "https://github.com/yourusername/project3",
+        "website": "https://yourwebsite.com/project3",
+        "description": "Description of Project 3. You can write about the features and functionalities of this project here."
+      }
+    ]
+  }
+  
